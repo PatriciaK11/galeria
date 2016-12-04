@@ -1,0 +1,20 @@
+div {
+    background-color: palevioletred;
+}
+div img {
+    border: 2px solid darkturquoise;
+}
+
+footer{
+    height: 100px;
+    color: mediumvioletred; 
+    background-color: greenyellow;
+    font-style:  italic;
+    font-size:  30px;
+    font-weight: bold;
+}
+
+div#photos {
+    border-radius: 40px;
+    background-color: darkviolet;
+}
